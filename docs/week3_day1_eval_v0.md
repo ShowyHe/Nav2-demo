@@ -6,6 +6,22 @@
 ## 输入
 - /tmp/w2d6_bt.log：用 ros2 topic echo /behavior_tree_log 持续写入
 
+## How to run（复现步骤）
+
+1) 终端C：持续写 BT log
+- rm -f /tmp/w2d6_bt.log
+- ros2 topic echo /behavior_tree_log > /tmp/w2d6_bt.log
+
+2) 每次 run（终端D）：取 start/end 行号
+- 点 Nav2 Goal 之前（start_line）  
+  L0=$(wc -l < /tmp/w2d6_bt.log); echo "RUNi start_line=$((L0+1))"
+- 本次 run 结束后（end_line）  
+  L1=$(wc -l < /tmp/w2d6_bt.log); echo "RUNi end_line=$L1"
+
+3) 终端E：录入并生成 CSV
+- python3 scripts/eval_v0_from_btlog.py
+- 按提示输入：run_id / start_line / end_line / result / time_sec / notes
+
 ## 人工填写字段
 - result: S/T/F
 - time_sec: 秒表计时
