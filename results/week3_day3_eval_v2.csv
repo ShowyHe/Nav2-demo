@@ -1,0 +1,4 @@
+run,goal_id,result,time_sec,notes,recovery,recovery_types,recovery_hits,bt_start_line,bt_end_line
+1,9f95bea08e49b96bf1e72e98f820829c,S,12.861,clean,N,,0,0,908
+2,21059c509abf1289563ceae8304686c8,T,3.481,cancel_test,N,,0,2635,2917
+3,9965de150d8f00d521525b515797334e,S,16.353,recovery_test,Y,ClearLocalCostmap,2,2917,4067

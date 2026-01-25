@@ -3,7 +3,7 @@
 ## 做了什么
 把 W3D1 的“手工 time_sec + 手工 result”升级为：从 Nav2 Action 状态自动得到 result(S/T/F) 与 time_sec。
 
-## 原理（人话版）
+## 原理
 - Nav2 的导航目标是一个 action：/navigate_to_pose（server 在 /bt_navigator）
 - action 的状态会在隐藏 topic 发布：/navigate_to_pose/_action/status
 - 脚本订阅该 status：
