@@ -1,0 +1,12 @@
+run,goal_id,result,time_sec,notes,recovery,recovery_types,recovery_hits,bt_start_line,bt_end_line
+1,564e7741bf601eb824f188772a606d9e,S,12.960,clean,N,,0,2257,3165
+2,ac580422f71864c49c3a9521886c5d9a,S,12.961,clean,N,,0,4577,5485
+3,b451ed586c816bd99f041726809ddffe,T,5.522,clean,N,,0,6834,7242
+4,53ebb0ca1fdd8635962adedcd0d9f4a0,T,5.961,clean,N,,0,8168,8576
+5,399ba298cc85a433215259f716a35308,S,34.040,clean,Y,ClearLocalCostmap;ClearGlobalCostmap,6,13886,16245
+6,021e9f5897684d4ef622fcebcba37bfd,S,19.942,clean,Y,ClearLocalCostmap,2,18276,19660
+7,e018865c8bd0665debd3aa603cebe736,S,11.661,clean,N,,0,28633,29478
+8,c9ea804a65d94a0a4ecaa9d34fbc4533,S,17.525,clean,N,,0,33173,34380
+9,11d09c9472816959e362a8d0a16952ab,S,13.561,clean,N,,0,86832,87803
+10,68f5a7d4af2d25794fa94ecb939f0c23,S,75.658,clean,Y,ClearLocalCostmap;BackUp,9,87803,112562
+11,00c0a18ecf6142bd49ec8631efa396ad,S,13.956,clean,N,,0,112562,113533
