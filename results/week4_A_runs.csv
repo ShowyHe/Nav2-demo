@@ -1,0 +1,22 @@
+run,goal_id,result,time_sec,notes,start_ns,end_ns,recovery,recovery_types,recovery_hits,bt_start_line,bt_end_line,source,orig_run
+1,533b11f5aef28d6f5ff43a7db93d28f1,S,13.417,W4D3 A run_01,,,N,,0,0,845,w4d3_action_v2,1
+2,bc1f230c56fb051466b7c9070afcd9a6,S,13.980,W4D3 A run_02,,,N,,0,2252,3097,w4d3_action_v2,2
+3,79698d55e1ef2d83ab461f2bd78e023c,S,11.961,W4D3 A run_03,,,N,,0,4859,5704,w4d3_action_v2,3
+4,5253d2025c4ed957f87bf60d0cd8816e,S,12.161,W4D3 A run_04,,,N,,0,7179,8024,w4d3_action_v2,4
+5,cd453d2fb3934593867ebe16b528d4e5,S,12.261,W4D3 A run_05,,,N,,0,9460,10305,w4d3_action_v2,5
+6,21c5f7d44ae0d8f949ba43afa897f066,S,11.661,W4D3 A run_06,,,N,,0,11654,12499,w4d3_action_v2,6
+7,5bad9195a1d314e915d53c2a23da093d,S,11.961,W4D3 A run_07,,,N,,0,14135,14980,w4d3_action_v2,7
+8,d0617bc2c305bd72b17c1126ab108646,S,11.761,W4D3 A run_08,,,N,,0,16553,17398,w4d3_action_v2,8
+9,7a0d91eb8e47a6a777685212786eabbc,S,11.761,W4D3 A run_09,,,N,,0,18857,19702,w4d3_action_v2,9
+10,72164505cb56873b137c1ff7fe5d9a88,S,11.761,W4D3 A run_10,,,N,,0,20988,21833,w4d3_action_v2,10
+11,7bed8b322c1fd53ecb1257ed30600e03,S,13.189,W4D3 A run_11,,,N,,0,23245,24090,w4d3_action_v2,11
+12,81494ff23f7ee259489f927a172b8221,S,11.760,W4D3 A run_12,,,N,,0,27303,28148,w4d3_action_v2,12
+13,3c2201b69e14c9463c876e94ec618784,S,12.161,W4D3 A run_13,,,N,,0,29434,30279,w4d3_action_v2,13
+14,a472027779c37227e12a7a43bad5bc99,S,12.160,W4D3 A run_14,,,N,,0,32214,33059,w4d3_action_v2,14
+15,0e59db6d9b75c43941dee79dc9d39899,S,11.861,W4D3 A run_15,,,N,,0,34534,35379,w4d3_action_v2,15
+16,0926a1ab554d220d69d62d68e3a073c6,S,11.761,W4D3 A run_16,,,N,,0,36980,37825,w4d3_action_v2,16
+17,f00a50ade1ee5d0e32880e320e87446a,S,11.761,W4D3 A run_17,,,N,,0,39713,40558,w4d3_action_v2,17
+18,8e95bf9efcc09874669a6392b830a384,S,11.760,W4D3 A run_18,,,N,,0,42257,43102,w4d3_action_v2,18
+19,5df4d82807a8f87be80c7e71d9933b32,S,11.661,W4D3 A run_19,,,N,,0,44451,45296,w4d3_action_v2,19
+20,dfa6be390f9bbf8ef67c87c373efe97e,S,11.761,W4D3 A run_20,,,N,,0,46897,47742,w4d3_action_v2,20
+
